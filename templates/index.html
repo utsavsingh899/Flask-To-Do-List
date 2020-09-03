@@ -5,7 +5,7 @@
 {% endblock %}
 
 {% block body %}
-    <div >
+    <div class="content">
         <h1>To Do App:</h1>
 
         {% if tasks|length < 1 %}
@@ -36,7 +36,7 @@
 
         {% endif %}
 
-        <form action="/" method="POST">
+        <form class="form" action="/" method="POST">
             <input type="text" name="content" id="content">
             <input type="submit" value="Add Task">
         </form>
