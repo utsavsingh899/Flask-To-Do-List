@@ -1,8 +1,8 @@
 # Flask-To-Do-List
-A simple and minimalist To Do list. Visit [To Do List](https://flash-todo-list.herokuapp.com/)
+A simple and minimalist To Do list with CRUD operations. Visit the website [here](https://flash-todo-list.herokuapp.com/).
 
 ### Technologies:
-* HTML/CSS
-* Flask for backend
-* SQLite for database
-* Hosted using Heroku
+1. HTML/CSS
+2. Flask for backend
+3. SQLite for database
+4. Hosted using Heroku
